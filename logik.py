@@ -9,13 +9,13 @@ import subprocess
 
 # Konfiguration
 email_config = {
-    "smtp_server": "10.8.50.211",
+    "smtp_server": "hier Mailserver",
     "port": 25,
     "use_tls": False,
     "use_auth": False,
-    "username": "uer@countit.at",
-    "password": "e9WGtqWG2#V8mQdZV!",
-    "sender_email": "uer@countit.at",
+    "username": "hierBenutzername",
+    "password": "hierPasswort",
+    "sender_email": hier Absender Adresse",
     "enable_email": True
 }
 email_suffix = "@countit.at"
