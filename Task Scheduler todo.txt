@@ -1,0 +1,5 @@
+user: Network Service
+
+programm:  "C:\Program Files\PowerShell\7\pwsh.exe"
+arguments: -File "C:\TS Benachrichtiger\System und Update Liste\durcharbeiten.ps1"
+start in: C:\TS Benachrichtiger\System und Update Liste
