@@ -1,8 +1,0 @@
-install powershell 7 and Pyhton
-
-download blat and save it in a blat_current subfolder
-
-download XlsToCsv.vbs https://gist.github.com/tonyerskine/77250575b166bec997f33a679a0dfbe4#file-to-csv-vbs and set csv_format = 62
-
-
-
